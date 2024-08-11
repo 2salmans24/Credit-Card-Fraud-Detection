@@ -134,6 +134,3 @@ Contributions are welcome! Please feel free to submit a Pull Request if you have
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-### Contact
-For any questions or inquiries, feel free to contact #Sarmad Salman#.
